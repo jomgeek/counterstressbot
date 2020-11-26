@@ -1,7 +1,8 @@
-## A Telegram Bot to make you smile. ##
+### It is important to manage our stress level during this global pandemic. This is a Telegram Bot to help make you smile. ###
 
 > It will reply you with random jokes and quotes.
   
+![Smile](https://www.letstalkcoaching.com/wp-content/uploads/Smile-it-suits-you1.jpg)
 
 ## Important ##
 
