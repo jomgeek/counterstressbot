@@ -1,0 +1,13 @@
+{
+    "name": "jomgeek/counterstressbot",
+    "description": "A telegram bot that will make you smile",
+    "type": "project",
+    "require": {
+        "longman/telegram-bot": "^0.64.0"
+    },
+    "authors": [
+        {
+            "name": "JomGeek"
+        }
+    ]
+}
