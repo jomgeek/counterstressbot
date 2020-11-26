@@ -1,0 +1,8 @@
+name: counterstressbot
+services:
+- environment_slug: php
+  github:
+    branch: main
+    deploy_on_push: false
+    repo: jomgeek/counterstressbot
+  name: counterstressbot
